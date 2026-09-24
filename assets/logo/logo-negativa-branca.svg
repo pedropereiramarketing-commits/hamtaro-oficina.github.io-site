@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 180" width="520" height="180">
+  <rect width="520" height="180" fill="#1A1C20"/>
+  <rect x="0" y="0" width="5" height="180" fill="#F5F6F8"/>
+  <text x="28" y="118"
+    font-family="'Cabinet Grotesk','Cabinet Grotesk Variable',sans-serif"
+    font-size="96" font-weight="900"
+    fill="#F5F6F8" letter-spacing="-3">HAMTARO</text>
+  <rect x="28" y="132" width="44" height="2.5" fill="#F5F6F8" rx="1.5"/>
+  <rect x="76" y="133" width="412" height="1" fill="#2E3138" rx="0.5"/>
+  <text x="28" y="160"
+    font-family="'Cabinet Grotesk','Cabinet Grotesk Variable',sans-serif"
+    font-size="13" font-weight="500"
+    fill="#8C9099" letter-spacing="6">SERVIÇOS AUTOMOTIVOS</text>
+</svg>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamtaro-servicos-automotivos.pages.dev/sitemap.xml
